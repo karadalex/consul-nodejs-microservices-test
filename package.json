@@ -3,6 +3,7 @@
     "start": "node microservice1 & node microservice2 & node microservice3"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "express": "^4.16.4"
   }
 }
