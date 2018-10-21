@@ -8,4 +8,5 @@ Consul Microservices simple Discovery
 ```js
 const consul = 'http://<YOUR_CONSUL_ADDR_HERE>:8500/v1/catalog'
 ```
-2. To run all microservices, run `npm start`
+3. Install dependencies run `npm install` or `yarn install`
+4. To run all microservices, run `npm start`
